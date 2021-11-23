@@ -1,3 +1,3 @@
 # Xresources.d
 
-My .Xresources.d Directory
+My `.Xresources.d` Directory
