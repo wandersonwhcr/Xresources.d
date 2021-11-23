@@ -1,7 +1,7 @@
 ! to match gnome-terminal "Linux console" scheme
 ! foreground/background
-URxvt*background: #000000
-URxvt*foreground: #FFFFFF
+URxvt.background: #000000
+URxvt.foreground: #FFFFFF
 ! black
 URxvt.color0  : #2E3436
 URxvt.color8  : #555753
@@ -34,6 +34,6 @@ URxvt.boldFont: xft:Bitstream Vera Sans Mono:bold:pixelsize=14:antialias=true
 ! scrollbar
 URxvt.saveLines:         4096
 URxvt.scrollBar:         false
-URxvt*scrollTtyOutput:   false
-URxvt*scrollWithBuffer:  true
-URxvt*scrollTtyKeypress: true
+URxvt.scrollTtyOutput:   false
+URxvt.scrollWithBuffer:  true
+URxvt.scrollTtyKeypress: true
