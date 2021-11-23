@@ -37,3 +37,6 @@ URxvt.scrollBar:         false
 URxvt.scrollTtyOutput:   false
 URxvt.scrollWithBuffer:  true
 URxvt.scrollTtyKeypress: true
+
+! buffer
+URxvt.buffered: true
