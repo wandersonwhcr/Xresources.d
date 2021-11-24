@@ -11,3 +11,7 @@ cat <<'EOF' >>~/.Xresources
 #include ".Xresources.d/main.ad"
 EOF
 ```
+
+## Credits
+
+* [@petersonwpm](https://github.com/petersonwpm/) for `.Xresources.d` tips
