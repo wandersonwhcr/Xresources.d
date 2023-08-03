@@ -1,1 +1,1 @@
-#include "urxvt.ad"
+#include "urxvt/main.ad"
