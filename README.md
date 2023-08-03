@@ -15,4 +15,4 @@ EOF
 ## Credits
 
 * [@petersonwpm](https://github.com/petersonwpm/) for `.Xresources.d` tips
-* [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font)
+* [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) by Simon Lundström
