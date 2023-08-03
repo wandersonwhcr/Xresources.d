@@ -44,3 +44,10 @@ URxvt.buffered: true
 ! extensions
 URxvt.perl-lib: .Xresources.d/urxvt/ext
 URxvt.perl-ext-common: resize-font
+
+! keysym
+URxvt.keysym.Control-0:          resize-font:reset
+URxvt.keysym.Control-Minus:      resize-font:smaller
+URxvt.keysym.Control-Underscore: resize-font:smaller
+URxvt.keysym.Control-Equal:      resize-font:bigger
+URxvt.keysym.Control-Plus:       resize-font:bigger
